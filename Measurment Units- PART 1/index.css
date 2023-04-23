@@ -1,0 +1,16 @@
+
+h1, p {
+    font-size: 3em;
+}
+
+body {
+    font-size: 20px;
+}
+
+div {
+    font-size: 10px;
+}
+
+/* em  - is relative;  is calculated according to closest parent element font size*/
+
+/* rem - font size is calculated according to html*/

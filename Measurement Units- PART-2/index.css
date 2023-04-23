@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    font-size: 200%;
+    margin: 0;
+}
+
+section {
+    font-size: 30px;
+    background-color: orangered;
+    color: #fff;
+    height: 100vh;
+}
+
+section div {
+    background-color: green;
+}
