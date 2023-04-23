@@ -1,0 +1,33 @@
+
+.container {
+    background-color: orangered;
+    width: 700px;
+    height: 600px;
+    position: relative;
+}
+
+.box {
+    width: 350px;
+    height: 100px;
+    font-size: 25px;
+    color: #fff;
+}
+
+.box-1 {
+    background-color: green;
+    position: absolute;
+    bottom: 0;
+}
+.box-2 {
+    background-color: royalblue;
+    /* position: sticky;
+    top: 0; */
+    
+}
+.box-3 {
+    background-color: grey;
+    
+}
+
+/*Absolute are placed relative to the nearest parent element position*/
+/*Sticky */
